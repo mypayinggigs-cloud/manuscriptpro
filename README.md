@@ -60,9 +60,10 @@
                 <span class="font-black text-2xl tracking-tighter text-indigo-950 uppercase italic">Manuscript<span class="text-indigo-600">Pro</span></span>
             </div>
             <div class="hidden md:flex items-center space-x-8">
-                <a href="#how-it-works" class="font-bold text-slate-600 hover:text-indigo-600">How it Works</a>
+                <a href="#pricing" class="font-bold text-slate-600 hover:text-indigo-600">Pricing</a>
                 <a href="https://manuscriptpro.online" class="font-bold text-slate-600 hover:text-indigo-600 underline underline-offset-4 decoration-indigo-600">Preview</a>
-                <a href="https://dashboard.paystack.com/#/pages/2059005" class="btn-brand bg-indigo-600 text-white px-6 py-2 font-black uppercase text-sm">Get Started</a>
+                <!-- UPDATED PAYMENT LINK -->
+                <a href="https://paystack.shop/pay/u6krvg7c2x" class="btn-brand bg-indigo-600 text-white px-6 py-2 font-black uppercase text-sm">Get Started</a>
             </div>
         </div>
     </nav>
@@ -78,8 +79,8 @@
                 Professional book layout and formatting for authors, coaches, and pastors. Fast, outcome-focused, and ready for Amazon.
             </p>
             <div class="flex flex-col sm:flex-row items-center justify-center gap-6 mb-20">
-                <!-- PAYSTACK LINK -->
-                <a href="https://dashboard.paystack.com/#/pages/2059005" class="btn-brand w-full sm:w-auto px-10 py-5 bg-indigo-600 text-white font-black text-xl uppercase tracking-tight">
+                <!-- PREVIEW LINK (per instructions: "get my formatted book remains constant") -->
+                <a href="https://manuscriptpro.online" class="btn-brand w-full sm:w-auto px-10 py-5 bg-indigo-600 text-white font-black text-xl uppercase tracking-tight">
                     Get My Book Formatted
                 </a>
                 <!-- PREVIEW LINK -->
@@ -116,7 +117,7 @@
     </section>
 
     <!-- Pricing Section -->
-    <section class="py-24 px-6">
+    <section id="pricing" class="py-24 px-6 bg-slate-50 border-y-4 border-indigo-950">
         <div class="max-w-5xl mx-auto">
             <div class="text-center mb-16">
                 <h2 class="serif text-4xl font-black text-indigo-950 uppercase italic">Simple, Clear Pricing</h2>
@@ -133,7 +134,8 @@
                         <li>• 72-Hour Delivery</li>
                         <li>• 1 Revision Round</li>
                     </ul>
-                    <a href="https://dashboard.paystack.com/#/pages/2059005" class="btn-brand block text-center w-full py-4 bg-white text-indigo-600 font-black uppercase">Choose Standard</a>
+                    <!-- UPDATED PAYMENT LINK -->
+                    <a href="https://paystack.shop/pay/u6krvg7c2x" class="btn-brand block text-center w-full py-4 bg-white text-indigo-600 font-black uppercase">Choose Standard</a>
                 </div>
                 <!-- VIP -->
                 <div class="p-10 sketch-border bg-indigo-600 text-white relative scale-105">
@@ -146,9 +148,22 @@
                         <li>• Unlimited Revisions</li>
                         <li>• Priority 48-Hour Support</li>
                     </ul>
-                    <a href="https://dashboard.paystack.com/#/pages/2059005" class="btn-brand block text-center w-full py-4 bg-white text-indigo-600 font-black uppercase">Choose VIP</a>
+                    <!-- UPDATED PAYMENT LINK -->
+                    <a href="https://paystack.shop/pay/u6krvg7c2x" class="btn-brand block text-center w-full py-4 bg-white text-indigo-600 font-black uppercase">Choose VIP</a>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section class="py-32 bg-indigo-950 text-white text-center px-6 border-t-8 border-indigo-600">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="serif text-4xl md:text-6xl font-black mb-8 italic">Your manuscript deserves to be a real book.</h2>
+            <p class="text-xl text-indigo-200 mb-12 font-medium">Ready to see your words in a professional layout? Let's begin.</p>
+            <!-- UPDATED PAYMENT LINK -->
+            <a href="https://paystack.shop/pay/u6krvg7c2x" class="btn-brand inline-block px-12 py-6 bg-indigo-600 text-white font-black text-2xl uppercase">
+                Get Started Now
+            </a>
         </div>
     </section>
 
@@ -163,16 +178,16 @@
                         </div>
                         <span class="font-black text-xl tracking-tighter text-indigo-950 uppercase italic">Manuscript<span class="text-indigo-600">Pro</span></span>
                     </div>
-                    <p class="text-slate-600 font-medium max-w-xs mb-6">The gold standard in automated and high-precision book formatting for the modern author.</p>
+                    <p class="text-slate-600 font-medium max-w-xs mb-6">The gold standard in high-precision book formatting for the modern author.</p>
                     <div class="label-bold">Service Status: 100% Operational</div>
                 </div>
 
                 <div>
                     <h4 class="font-black uppercase text-indigo-950 mb-6 text-sm tracking-widest underline decoration-2 decoration-indigo-600">Quick Links</h4>
                     <ul class="space-y-3 font-bold text-slate-600 text-sm">
-                        <!-- UPDATED PREVIEW LINK -->
                         <li><a href="https://manuscriptpro.online" class="hover:text-indigo-600">Free Preview</a></li>
-                        <li><a href="https://dashboard.paystack.com/#/pages/2059005" class="hover:text-indigo-600">Pricing & Checkout</a></li>
+                        <!-- UPDATED PAYMENT LINK -->
+                        <li><a href="https://paystack.shop/pay/u6krvg7c2x" class="hover:text-indigo-600">Pricing & Checkout</a></li>
                         <li><a href="https://wa.me/2349155975173" class="hover:text-indigo-600">WhatsApp Support</a></li>
                     </ul>
                 </div>
@@ -187,7 +202,7 @@
 
             <div class="pt-8 border-t-2 border-slate-100 flex flex-col md:flex-row justify-between items-center gap-6">
                 <p class="text-xs font-black text-slate-400 uppercase tracking-tighter">© 2024 ManuscriptPro Formatting Services. All rights reserved.</p>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Paystack_Logo.png" alt="Paystack" class="h-4 opacity-50">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Paystack_Logo.png" alt="Paystack" class="h-4 opacity-50 grayscale">
             </div>
         </div>
     </footer>
